@@ -5,7 +5,7 @@ I think there are some Osborne 1 keyboards that are a different layout, which th
 
 If your Osborne 1 is like mine, I need an ISO '3' number-row key with £ sign instead of #. I think this comes down to the ROM in your system.
 
-This is a slightly advanced project to mount to the original PCB. You must:
+This is a slightly advanced project to mount to the original enclosure. You must:
 - Shorten the original 8-32 hex spacers to about half, or buy the replacements in the BoM.
 - Shorten the original 8-32 bolts to about 4.5mm thread length, or buy replacements.
 - Figure out how to stop the PCB flexing in the middle. Two holes on the PCB are provided to add additional spacers and bolts for the easiest method (drill 2 holes in the original metal faceplate for this). If you wish to not deface the original plate, you will need to fashion something to sit behind the keyboard PCB in the enclosure.
